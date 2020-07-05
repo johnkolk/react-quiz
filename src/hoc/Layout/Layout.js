@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import classes from './Layout.css';
 
-class Layout extends React.Component {
+class Layout extends Component {
         
     render(){        
         return (
